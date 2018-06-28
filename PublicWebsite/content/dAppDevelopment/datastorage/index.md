@@ -74,6 +74,7 @@ void create(account_name author, const uint32_t id, const std::string& descripti
 		new_todo.description = description;
 		new_todo.completed = 0;
 	});
+}
 ```
 
 
